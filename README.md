@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samy</h1>
 <h3 align="center">A passionate computer engineering student from Egypt.</h3>
 
-- 🔭 I’m currently working on **finishing my engineering degree (last year).**
+- 🔭 I’m currently working on **finishing my computer engineering degree (last year).**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Samy1](https://github.com/Mohamed-Samy1)
 
