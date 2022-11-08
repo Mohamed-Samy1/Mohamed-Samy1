@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **data structures, algorithms, javascript, nodejs, database design, etc..**
 
-- 📫 How to reach me **mohamedsamy7155@gmail.com**
+- 📫 You can reach me by sending me an email **mohamedsamy7155@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
