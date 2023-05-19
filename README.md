@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Improving my software engineering skills.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Samy1](https://github.com/Mohamed-Samy1)
-
 - 💬 Ask me about **Data Structures, Algorithms, JavaScript, Node.js, Database Design, etc..**
 
 - 📫 How to reach me **mohamedsamy7155@gmail.com**
