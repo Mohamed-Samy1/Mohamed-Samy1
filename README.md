@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samy</h1>
-<h3 align="center">A passionate computer backend software engineer from Egypt.</h3>
+<h3 align="center">A passionate computer backend software engineer</h3>
 
 - 💬 Ask me about **Data Structures, Algorithms, JavaScript, Node.js, Database Design, etc..**
 
